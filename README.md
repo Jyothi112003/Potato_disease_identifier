@@ -1,1 +1,1 @@
-# Potato_disease_identifier
+# Potato_Leaf_Disease_Identifier
